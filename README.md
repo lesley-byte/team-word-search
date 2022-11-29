@@ -10,7 +10,7 @@ Anyone from someone who is writing an essay to someone who is writing song lyric
 
 ## Link to Deployed Application
 
-[Deployed Application](https://cmcclay77.github.io/super-team-project/)
+[Deployed Application](https://lesley-byte.github.io/team-word-search/)
 
 ## Screenshot
 
